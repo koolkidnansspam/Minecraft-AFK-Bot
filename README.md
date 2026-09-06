@@ -3,12 +3,15 @@
 
 This is a lightweight Minecraft Java AFK Bot powered by [Mineflayer](https://github.com/PrismarineJS/mineflayer). It connects to a Java server, performs basic movements to avoid AFK detection, and can be customized via a simple configuration file.
 
-<a href="https://discord.gg/SjQydGvs5p" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" width="300">
-</a>
+<p>
+  <a href="https://discord.gg/SjQydGvs5p" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Join-7289DA?logo=discord&logoColor=white" alt="Discord" width="300" />
+  </a>
+</p>
+
 <p>
   <a href="https://buy.polar.sh/polar_cl_yODs3Ofw3OH6yaZYZYBgRSSZKYneEpLjkBm702IGyN2" target="_blank">
-    <img src="https://img.shields.io/badge/💖_Support_&_Contribute-8B5CF6?style=for-the-badge&logoColor=white" alt="Contribute on Polar width="40" />
+    <img src="https://img.shields.io/badge/💖_Support_&_Contribute-8B5CF6?logoColor=white" alt="Contribute on Polar" width="300" />
   </a>
 </p>
 
