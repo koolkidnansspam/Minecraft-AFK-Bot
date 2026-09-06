@@ -8,7 +8,7 @@ This is a lightweight Minecraft Java AFK Bot powered by [Mineflayer](https://git
 </a>
 <p>
   <a href="https://buy.polar.sh/polar_cl_yODs3Ofw3OH6yaZYZYBgRSSZKYneEpLjkBm702IGyN2" target="_blank">
-    <img src="https://img.shields.io/badge/💖_Support_&_Contribute-8B5CF6?style=for-the-badge&logoColor=white" alt="Contribute on Polar width="350" />
+    <img src="https://img.shields.io/badge/💖_Support_&_Contribute-8B5CF6?style=for-the-badge&logoColor=white" alt="Contribute on Polar width="400" />
   </a>
 </p>
 
